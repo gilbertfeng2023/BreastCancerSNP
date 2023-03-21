@@ -11,4 +11,5 @@ Conclusion: We present a new nomogram that combines genotypic and clinicopatholo
 The preprocessed data and model building R codes are listed here.
 
 EDC_code.R: The R codes processing the input files
+
 input.zip: Compressed input files
